@@ -21,8 +21,7 @@
     "Header": {
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
-    },
-    "Tabs": []
+    }
   },
   "Dependencies": [
     {
@@ -47,6 +46,10 @@
     {
       "ItemId": "ff750347-d887-4c80-8ecd-606993af144f",
       "PreviousItemId": "c7118ffe-f2e8-4671-9060-a5ce5b87152b"
+    },
+    {
+      "ItemId": "2f518e15-6e36-49cc-98a6-d60e7762e27c",
+      "PreviousItemId": "ff750347-d887-4c80-8ecd-606993af144f"
     }
   ],
   "IconResourcesKeys": [],
